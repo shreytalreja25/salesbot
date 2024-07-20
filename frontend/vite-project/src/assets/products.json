@@ -1,0 +1,83 @@
+[
+    {
+      "product_id": "P001",
+      "name": "Executive Office Chair",
+      "category": "Furniture",
+      "price": 299.99,
+      "description": "Ergonomic executive office chair with adjustable height, lumbar support, and breathable mesh back. Perfect for long hours of work.",
+      "stock": 50
+    },
+    {
+      "product_id": "P002",
+      "name": "Premium Desk Lamp",
+      "category": "Office Supplies",
+      "price": 49.99,
+      "description": "LED desk lamp with adjustable brightness and color temperature, touch control, and USB charging port.",
+      "stock": 100
+    },
+    {
+      "product_id": "P003",
+      "name": "Standing Desk Converter",
+      "category": "Furniture",
+      "price": 199.99,
+      "description": "Adjustable standing desk converter with spacious work surface and easy height adjustment for sitting or standing.",
+      "stock": 30
+    },
+    {
+      "product_id": "P004",
+      "name": "Leather Office Chair Mat",
+      "category": "Office Supplies",
+      "price": 59.99,
+      "description": "Premium leather office chair mat for hardwood floors, providing smooth chair movement and floor protection.",
+      "stock": 80
+    },
+    {
+      "product_id": "P005",
+      "name": "Filing Cabinet",
+      "category": "Furniture",
+      "price": 159.99,
+      "description": "3-drawer metal filing cabinet with lockable drawers and anti-tilt mechanism for secure storage of documents.",
+      "stock": 40
+    },
+    {
+      "product_id": "P006",
+      "name": "Wireless Keyboard and Mouse Combo",
+      "category": "Office Supplies",
+      "price": 79.99,
+      "description": "Sleek wireless keyboard and mouse combo with ergonomic design, long battery life, and reliable wireless connection.",
+      "stock": 120
+    },
+    {
+      "product_id": "P007",
+      "name": "Conference Room Table",
+      "category": "Furniture",
+      "price": 499.99,
+      "description": "Large conference room table with durable laminate surface, cable management system, and seating for up to 10 people.",
+      "stock": 10
+    },
+    {
+      "product_id": "P008",
+      "name": "Office Organizer Set",
+      "category": "Office Supplies",
+      "price": 34.99,
+      "description": "6-piece office organizer set including desk tray, pen holder, file organizer, and sticky note dispenser.",
+      "stock": 150
+    },
+    {
+      "product_id": "P009",
+      "name": "Adjustable Monitor Stand",
+      "category": "Furniture",
+      "price": 39.99,
+      "description": "Adjustable monitor stand with built-in drawer and riser for ergonomic viewing height and additional desk space.",
+      "stock": 60
+    },
+    {
+      "product_id": "P010",
+      "name": "Mesh Office Chair",
+      "category": "Furniture",
+      "price": 149.99,
+      "description": "Comfortable mesh office chair with adjustable armrests, lumbar support, and 360-degree swivel for optimal comfort.",
+      "stock": 70
+    }
+  ]
+  
